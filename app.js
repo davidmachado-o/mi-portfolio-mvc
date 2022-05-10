@@ -10,7 +10,7 @@ app.use(express.static(publicPath));
 const rutasMain = require('./routers/main.js');
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}!`);
+    console.log(`Running on port ${port}!`);
 }
 );
 
