@@ -13,7 +13,8 @@ footer a{
     position: fixed;
     width: 100%;
     z-index: 1;
-    background-color: black;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 42%, rgba(222,23,209,1) 83%, rgba(0,212,255,0.7227011494252873) 100%);
 }
 .mvc-bar {
     width: 100%;
